@@ -13,6 +13,7 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
+    "resource-sharing-platform": "file:..",
     "sql.js": "^1.13.0"
   }
 }
